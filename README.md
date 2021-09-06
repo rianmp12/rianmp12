@@ -4,7 +4,7 @@ The Dark-Mode always wins.
 ### Hi, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
 
-### Apaixonado por tecnologia e por tudo aquilo que ela pode me proporcionar.
+### Passionate about technology and always in search of knowledge.
 - 🏅 Estudante de Sistemas de informação na Universidade Federal da Paraíba. (UFPB)
 - 🎯 Sempre em busca de novos desafios.
 - 🎯 Meu objetivo é trabalhar com desenvolvimento.
