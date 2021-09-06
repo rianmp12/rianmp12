@@ -1,7 +1,7 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
 The Dark-Mode always wins.
 <br/>
-### Hi there, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
 
 ### Apaixonado por tecnologia e por tudo aquilo que ela pode me proporcionar.
