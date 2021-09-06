@@ -11,6 +11,22 @@ The Dark-Mode always wins.
 #### Passionate about technology and always in search of knowledge.
 <br>
 
+```javascript
+const Rian = {
+    pronouns: "he" | "him",
+    code: [Python, Java, Javascript, HTML, CSS],
+    askMeAbout: ["tech", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            Framework: ["ReactJs"]
+        },
+        backEnd: {
+            Java: ["Spring"] 
+        }        
+    }
+};
+```
+
 [![card](https://github-readme-stats.vercel.app/api?username=rianmp12&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rianmp12&label=Profile%20views&color=0e75b6&style=flat" alt="rianmp12" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E<img src="https://github-profile-trophy.vercel.app/?username=rianmp12" alt="rianmp12" /></a> </p>
@@ -25,3 +41,5 @@ The Dark-Mode always wins.
 <a href="https://www.linkedin.com/in/rian-manoel-6297bb211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rian manoel" height="30" width="40" /></a>
 <a href="https://instagram.com/rian_manoel.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rian_manoel.12" height="30" width="40" /></a>
 </p>
+  
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
