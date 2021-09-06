@@ -14,11 +14,11 @@ The Dark-Mode always wins.
 - 🎯 Meu objetivo é trabalhar com desenvolvimento.
 
 <div>
-  <a href="https://github.com/Matheuslima99/convoychat">
+  <a href="https://github.com/rianmp12/convoychat">
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=rianmp12&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/Matheuslima99/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslima99&layout=compact&theme=radical" />
+  <a href="https://github.com/rianmp12/github-readme-stats">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&layout=compact&theme=radical" />
   </a>
 </div>
 
