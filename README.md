@@ -4,7 +4,7 @@ The Dark-Mode always wins.
 # Hi, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-### Passionate about technology and always in search of knowledge.
+#### Passionate about technology and always in search of knowledge.
 <br>
 
 [![card](https://github-readme-stats.vercel.app/api?username=rianmp12&theme=tokyonight)](https://github.com/iuricode/) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
