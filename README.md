@@ -1,7 +1,11 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
 The Dark-Mode always wins.
 <br/>
-# Hi, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rian+Manoel....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 #### Passionate about technology and always in search of knowledge.
