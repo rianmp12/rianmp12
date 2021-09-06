@@ -1,7 +1,7 @@
 ![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
 The Dark-Mode always wins.
 <br/>
-### Hi there, I'm Matheus Lima! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hi there, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
@@ -15,7 +15,7 @@ The Dark-Mode always wins.
 
 <div>
   <a href="https://github.com/Matheuslima99/convoychat">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Matheuslima99&show_icons=true&theme=radical" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=rianmp12&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/Matheuslima99/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslima99&layout=compact&theme=radical" />
