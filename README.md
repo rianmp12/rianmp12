@@ -18,7 +18,7 @@ The Dark-Mode always wins.
     <img height=180 src="https://github-readme-stats.vercel.app/api?username=rianmp12&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/rianmp12/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&layout=compact&theme=radical" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&layout=compact&theme=dark" />
   </a>
 </div>
 
