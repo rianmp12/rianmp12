@@ -4,10 +4,6 @@ The Dark-Mode always wins.
 ### Hi there, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian_manoel.12/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-manoel-6297bb211/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rianmp12@gmail.com)
-
 ### Apaixonado por tecnologia e por tudo aquilo que ela pode me proporcionar.
 - 🏅 Estudante de Sistemas de informação na Universidade Federal da Paraíba. (UFPB)
 - 🎯 Sempre em busca de novos desafios.
@@ -15,7 +11,7 @@ The Dark-Mode always wins.
 
 <div>
   <a href="https://github.com/rianmp12/convoychat">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=rianmp12&show_icons=true&theme=radical" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=rianmp12&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/rianmp12/github-readme-stats">
     <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianmp12&layout=compact&theme=tokyonight" />
