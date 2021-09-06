@@ -3,11 +3,8 @@ The Dark-Mode always wins.
 <br/>
 ### Hi, I'm Rian Manoel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <br>
-
 ### Passionate about technology and always in search of knowledge.
-- 🏅 Estudante de Sistemas de informação na Universidade Federal da Paraíba. (UFPB)
-- 🎯 Sempre em busca de novos desafios.
-- 🎯 Meu objetivo é trabalhar com desenvolvimento.
+
 
 <div>
   <a href="https://github.com/rianmp12/convoychat">
