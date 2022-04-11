@@ -16,14 +16,6 @@ const Rian = {
     pronouns: "he" | "him",
     code: [Python, Java, Javascript, HTML, CSS],
     askMeAbout: ["tech", "music", "coffee"],
-    technologies: {
-        frontEnd: {
-            Framework: ["ReactJs"]
-        },
-        backEnd: {
-            Java: ["Spring"] 
-        }        
-    }
 };
 ```
 
