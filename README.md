@@ -25,7 +25,6 @@ const Rian = {
 ## Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/rian-manoel-6297bb211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rian manoel" height="30" width="40" /></a>
-<a href="https://instagram.com/rian_manoel.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rian_manoel.12" height="30" width="40" /></a>
 </p>
   
   ![Snake animation](https://github.com/rianmp12/rianmp12/blob/output/github-contribution-grid-snake.svg)
