@@ -14,8 +14,8 @@ The Dark-Mode always wins.
 ```javascript
 const Rian = {
     pronouns: "he" | "him",
-    code: [Python, Java, Javascript, HTML, CSS],
-    askMeAbout: ["tech", "music", "coffee"],
+    code: [Python, Java, Javascript, Typescript],
+    askMeAbout: ["tech", "music", "coffee", "games"],
 };
 ```
 
